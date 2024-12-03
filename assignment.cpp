@@ -1,6 +1,6 @@
 // 2. Assignment Operators
-// Challenge: Write a program that allows a user to input the number of tea bags they have. Assign additional bags to them based on certain conditions (e.g., if they have fewer than 10 bags, give them 5 extra). Update the original number using assignment operators.
 
+// Challenge: Write a program that allows a user to input the number of tea bags they have. Assign additional bags to them based on certain conditions (e.g., if they have fewer than 10 bags, give them 5 extra). Update the original number using assignment operators.
 // Operators: +=, -=, *=, /=, %=
 
 #include<iostream>
