@@ -1,3 +1,8 @@
+// 3. Relational Operators
+
+// Challenge: A tea shop offers a loyalty program. Customers who buy more than 20 cups of tea get a special "Gold" badge, and those who buy 10 to 20 cups get a "Silver" badge. Write a program to display the badge they will receive based on the number of cups they buy.
+// Operators: >, <, >=, <=
+
 #include<iostream>
 
 using namespace std;
