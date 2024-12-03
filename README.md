@@ -1,8 +1,6 @@
 # Solve-Real-World-Problem-Using-c-
 Tea-Shop-C++-Operator-Challenges
 
-Tea Shop C++ Operator Challenges
-
 This repository contains a set of challenges and solutions designed to help you practice and master basic C++ operators through real-world scenarios inspired by a tea shop. Each challenge focuses on a specific type of operator, providing a practical context to enhance your understanding and coding skills.
 
 Challenges
